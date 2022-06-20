@@ -24,7 +24,7 @@
 #                                                                                       #
 # Guide:                                                                                #
 # 1. Update the product URL below that you want to track.                               #
-# 2. Update the buy price below. An email alert will be sent if drops below amount.     #
+# 2. Update the buy price below. An email alert will be sent if drops below the amount. #
 #    For initial test, place it above the current price to verify it sends an email.    #
 # 3. Update your Gmail address and Gmail app password below.                            #
 # 2. Launch by clicking run button in top right in VSCode or: py -3 main.py             #
